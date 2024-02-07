@@ -1,0 +1,15 @@
+C:\Users\yazdan\source\repos\classtts\classtts\bin\Debug\net6.0\classtts.exe
+C:\Users\yazdan\source\repos\classtts\classtts\bin\Debug\net6.0\classtts.deps.json
+C:\Users\yazdan\source\repos\classtts\classtts\bin\Debug\net6.0\classtts.runtimeconfig.json
+C:\Users\yazdan\source\repos\classtts\classtts\bin\Debug\net6.0\classtts.dll
+C:\Users\yazdan\source\repos\classtts\classtts\bin\Debug\net6.0\classtts.pdb
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.csproj.AssemblyReference.cache
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.AssemblyInfoInputs.cache
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.AssemblyInfo.cs
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.csproj.CoreCompileInputs.cache
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.dll
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\refint\classtts.dll
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.pdb
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\classtts.genruntimeconfig.cache
+C:\Users\yazdan\source\repos\classtts\classtts\obj\Debug\net6.0\ref\classtts.dll
